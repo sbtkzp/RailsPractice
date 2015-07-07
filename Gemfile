@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'execjs'
+gem 'twitter-bootstrap3-rails'
