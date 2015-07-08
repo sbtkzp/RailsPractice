@@ -22,9 +22,14 @@ $ rails s -b 0.0.0.0
 ##ルーティング一覧
 現時点でアクセスできるURIの一覧です。
 
-|Prefix|Verb|URI Pattern|Controller#Action|&br;
-|-|:-:|-|:-:|&br;
-|static_pages_home| GET | /static_pages/home(.:format) |   static_pages#home|&br;
-|static_pages_help| GET | /static_pages/help(.:format)  |  static_pages#help|&br;
-|static_pages_about |GET | /static_pages/about(.:format)  | static_pages#about|&br;
+|Prefix|Verb|URI Pattern|Controller#Action|
+
+|-|:-:|-|:-:|
+
+|static_pages_home| GET | /static_pages/home(.:format) |   static_pages#home|
+
+|static_pages_help| GET | /static_pages/help(.:format)  |  static_pages#help|
+
+|static_pages_about |GET | /static_pages/about(.:format)  | static_pages#about|
+
 |static_pages_contact |GET | /static_pages/contact(.:format)| static_pages#contact|
