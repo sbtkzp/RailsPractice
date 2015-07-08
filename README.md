@@ -10,7 +10,7 @@
 - SQLite 3.7.17
 
 ##デプロイ方法
-以下のコマンドの入力で、Rails自身が持つWebサーバWEBrickが起動し、http://localhost:3000 でアプリケーションにアクセスできます。
+プロジェクトディレクトリ直下で以下のコマンドを入力することで、Rails自身が持つWebサーバWEBrickが起動し、[http://localhost:3000](http://localhost:3000) でアプリケーションにアクセスできます。
 ```
 $ rails s -b 0.0.0.0
 ```
