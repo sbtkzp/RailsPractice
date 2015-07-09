@@ -26,3 +26,5 @@
 Gemfile.lock
 README.rdoc
 app/assets/images/rails.png
+/public/*/
+config/secrets.yml
