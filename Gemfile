@@ -45,3 +45,4 @@ end
 
 gem 'execjs'
 gem 'twitter-bootstrap3-rails'
+gem 'bcrypt'
